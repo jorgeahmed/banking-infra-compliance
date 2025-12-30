@@ -4,6 +4,7 @@
 ![Standards](https://img.shields.io/badge/Standards-TIA--942-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Code Style](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ## 📌 Business Case
 Financial institutions like **Santander** and **Banxico** require rigid adherence to infrastructure standards (TIA-942) to ensure 99.999% uptime. This tool automates the audit process for cabling infrastructure, validating that installed assets (Cat 6A/7A) meet the bandwidth requirements for high-frequency trading and core banking systems.
