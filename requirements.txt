@@ -1,0 +1,2 @@
+# No external deps needed for base logic
+# Would use 'pandas' in prod for CSV handling
